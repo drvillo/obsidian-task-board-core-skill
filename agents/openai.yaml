@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Task Board"
+  short_description: "Lint and manage an Obsidian task board"
+  default_prompt: "Use $obsidian-task-board-core to manage this Obsidian task board safely."
